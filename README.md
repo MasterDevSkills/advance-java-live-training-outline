@@ -30,7 +30,7 @@ This course will be offered online via zoom or similar online conferencing tools
 
 **Course Timeline:** TBD
 
-**Total 20 hours of Content**
+*Total 20 hours of Content*
 
 ## Course outline 
 
