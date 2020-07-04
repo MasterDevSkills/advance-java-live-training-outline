@@ -32,59 +32,62 @@ This course will be offered online via zoom or similar online conferencing tools
 
 ## Course outline 
 
-1. Lambda Expression
+- What's new In Modern Java 
+    * Java 11 
+    * Java 14
+    * Java 15
+- Lambda Expression
 	* Coping with ever-changing requirements - behavior parameterization
 	* Real-world example
 	* Lambda in nutshell
 	* Functional interface
 	* Method reference
-	* Putting lambda & method reference in practice 
+	* Putting lambda & method reference in practice
 	* A useful method to compose lambda expression
 	* Lambda expression patterns
-10. Stream API and Patterns  
+- Stream API and Patterns
 	* Getting started with stream
 	* Stream vs Collection
 	* Stream Operations
 	* Filtering/Mapping/Reducing
-	* Numerical Stream 
-	* Collectors - 
-	* Reducing, sub grouping and Summarization 
-	* Exercises 
-19. Java Exception and Logging
+	* Numerical Stream
+	* Collectors -
+	* Reducing, sub grouping and Summarization
+	* Exercises
+- Java Exception and Logging
 	* Error handling
 	* Expectation Handling best practices
-	* Exercises 
+	* Exercises
 	* Why logging is important
 	* Logging frameworks
 	* Best practices
 	* Impact on performances
 	* Exercises
-28. Java Threading Essentials
-	* Concurrency vs Parallelism 
-	* Threads Creation and synchronization 
-	* Common Threading problems 
+- Java Threading Essentials
+	* Concurrency vs Parallelism
+	* Threads Creation and synchronization
+	* Common Threading problems
 	* Executors Services
 	* ForkJoinPool
 	* Parallel Stream
 	* Conclusion
-	* Exercises 
-37. Java Memory
+	* Exercises
+- Java Memory
 	* Garbage Collection
 	* Stack memory StakoverflowError
-	* Heap Management 
-	* Weak Generational Hypothesis. 
+	* Heap Management
+	* Weak Generational Hypothesis.
 	* Generalization spaces
 	* Stop the world
-	* Heap fragmentation 
-	* Escape analysis 
-	* Measuring GC activity 
-	* Exercise 
+	* Heap fragmentation
+	* Escape analysis
+	* Measuring GC activity
+	* Exercise
 	* Common Memory problems
-	* Memory Leak 
-	* Loitering objects 
+	* Memory Leak
+	* Loitering objects
 	* G1 Gc
-	* Exercises 
-
+	* Exercises
 
 ### Instructor: 
 
