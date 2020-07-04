@@ -95,8 +95,7 @@ This course will be offered online via zoom or similar online conferencing tools
 
 **A N M Bazlur Rahman**
 
-Sr. Developer
-Loblaw Digital, 
+Sr. Developer at Loblaw Digital, 
 Canada
 
 Bazlur has over 8 years of experience working in the software industry. Has experience in developing several key high-traffic applications that millions of users use, including the leading bKash Customer application.
