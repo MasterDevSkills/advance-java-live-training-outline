@@ -101,4 +101,7 @@ Bazlur has over 8 years of experience working in the software industry. Has expe
 
 He loves mentoring, writing and contributing to an open source project in his own time. He is the founder and moderator of a Java user group in Bangladesh, where he organizes regular technical sessions and shares Java-related knowledge. He has published four books on the Java programming language; one of them was on the bestseller list in Bangladesh.
 
+LinkedIn: https://www.linkedin.com/in/bazlur/
+
+Twitter: [@bazlur_rahman](https://twitter.com/bazlur_rahman)
 
