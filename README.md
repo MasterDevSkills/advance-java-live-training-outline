@@ -20,15 +20,17 @@ This course is ideally suited for the professional java programmers with at leas
 - Would like to you upgrade your java knowledge to the latest version? 
 - Would you like to excel in your java career? 
 
-
 If the answers to the above questions are yes then this course is certainly for you. 
 
 ## How do I attend?
 
 This course will be offered online via zoom or similar online conferencing tools.  
 
-**Course Fee**:  TBD
+**Course Fee:**  TBD
 
+**Course Timeline:** TBD
+
+**Total 20 hours of Content**
 
 ## Course outline 
 
