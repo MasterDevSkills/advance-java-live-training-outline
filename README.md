@@ -8,7 +8,7 @@ Besides, if you refactor your legacy code to the latest java, your code becomes 
 
 ## Whats included? 
 
-During this 5-day course, you will be studying a lot of modern features and advanced features of java. Each major section will be explained with the hands-on exercise which could be directly applied to your production code. 
+During this course, you will be studying a lot of modern features and advanced features of java. Each major section will be explained with the hands-on exercise which could be directly applied to your production code. 
 
 ## Is this course for me? 
 
@@ -26,9 +26,9 @@ If the answers to the above questions are yes then this course is certainly for 
 
 This course will be offered online via zoom or similar online conferencing tools.  
 
-**Course Fee:**  TBD
+**Course Fee:**  25,000 BDT
 
-**Course Timeline:** TBD
+**Course Timeline:** 
 
 *Total 20 hours of Content*
 
