@@ -26,7 +26,8 @@ If the answers to the above questions are yes then this course is certainly for 
 
 This course will be offered online via zoom or similar online conferencing tools.  
 
-**Course Fee:**  25,000 BDT
+**Orginal Course Fee:**  30,000 BDT
+**Current Course Fee:** 15% off (25,500 BDT after discounted) for each student 
 
 **Course Timeline:**  
 | Day	    | Time 			  |	Content					   |
