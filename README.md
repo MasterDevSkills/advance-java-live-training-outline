@@ -37,7 +37,7 @@ This course will be offered online via zoom or similar online conferencing tools
 | Day 1     | 08-08-2020 9 PM to 12:00 AM | Lambda Expression                              |
 | Day 2     | 09-08-2020 9 PM to 12:00 AM | Lambda Expression Cont.                        |
 | Day 3     | 15-08-2020 9 PM to 12:00 AM | Stream API and Patterns                        |
-| Day 4     | 26-08-2020 9 PM to 12:00 AM | Java Exceptions, Logging, Threading Essentials |
+| Day 4     | 16-08-2020 9 PM to 12:00 AM | Java Exceptions, Logging, Threading Essentials |
 | Day 5     | 22-08-2020 9 PM to 12:00 AM | Threading Essentials Cont.                     |
 | Day 6     | 23-08-2020 9 PM to 12:00 AM | Java Memory                                    |
 | Bonus Day | 29-08-2020 PM to 11:00 PM   | Java EE Primer & Conclusion                    |
