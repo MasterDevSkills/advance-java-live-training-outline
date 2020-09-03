@@ -22,23 +22,22 @@ This course is ideally suited for the professional java programmers with at leas
 
 If the answers to the above questions are yes then this course is certainly for you. 
 
+## Course benefits 
+ - You will be able to upgrade your Java skills with the latest version which means you are no longer fall behind
+ - You will be able to write clear and concise code with the lambda expression which means less chance to produce bugs
+ - You will be able to write declarative and expressive code easily which means less code but more results
+ - You will learn how to refactor old legacy and imperative code with modern functional programming which means less error in your code
+ - You will be able to process large data set in parallel which means a faster result
+ - You will be able to process large data set in parallel which means a faster result
+
 ## How do I attend?
 
 This course will be offered online via zoom or similar online conferencing tools.  
 
 **Course Timeline:**  
-| Day	    | Time 			  |	Content					   |
-| --------- | --------------------------- | ---------------------------------------------- |
-| Day 0     | 26-07-2020 9 PM to 10 PM    | Introduction: What’s new in Modern Java        |
-| Day 1     | 08-08-2020 9 PM to 12:00 AM | Lambda Expression                              |
-| Day 2     | 09-08-2020 9 PM to 12:00 AM | Lambda Expression Cont.                        |
-| Day 3     | 15-08-2020 9 PM to 12:00 AM | Stream API and Patterns                        |
-| Day 4     | 16-08-2020 9 PM to 12:00 AM | Java Exceptions, Logging, Threading Essentials |
-| Day 5     | 22-08-2020 9 PM to 12:00 AM | Threading Essentials Cont.                     |
-| Day 6     | 23-08-2020 9 PM to 12:00 AM | Java Memory                                    |
-| Bonus Day | 29-08-2020 9 PM to 11:00 PM   | Java EE Primer & Conclusion                    |
+Tantative: first week of October, 2020
 
-*Total 20 hours of Content*
+*Total 21+ hours of Content*
 
 ## Course outline 
 
@@ -106,9 +105,11 @@ This course will be offered online via zoom or similar online conferencing tools
 Sr. Developer at Loblaw Digital, 
 Canada
 
-Bazlur has over 8 years of experience working in the software industry. Has experience in developing several key high-traffic applications that millions of users use, including the leading bKash Customer application.
+Bazlur has more than eight years of experience coding in Java, which includes numerous projects — academic, professional, and personal.
 
-He loves mentoring, writing and contributing to an open source project in his own time. He is the founder and moderator of a Java user group in Bangladesh, where he organizes regular technical sessions and shares Java-related knowledge. He has published four books on the Java programming language; one of them was on the bestseller list in Bangladesh.
+He is currently working as a Senior Developer at Loblaw Digital, Canada. Before working here, he worked at one of the largest providers of mobile financial services in Bangladesh called bKash, where he made a significant contribution to team formation and development of several mission-critical products. One of the products has more than 10 million userbases.
+
+In addition to his regular work, he loves to mentor, write, and contribute to an open-source project. He is also the founder and current moderator of a Java user group (JUG) in Bangladesh, where he organized technical sessions, workshops to share knowledge related to Java. Besides, he published four books on the Java programming language; one of them was on the bestseller list in Bangladesh.
 
 LinkedIn: https://www.linkedin.com/in/bazlur/
 
