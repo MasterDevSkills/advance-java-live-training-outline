@@ -39,6 +39,8 @@ Tantative: first week of October, 2020
 
 *Total 21+ hours of Content*
 
+Course Fee: 30,000 BDT (+ taxes where if applies) 
+
 ## Course outline 
 
 - What's new In Modern Java 
